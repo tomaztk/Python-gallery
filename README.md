@@ -1,2 +1,2 @@
-# Python-gallery
+# Python gallery
 Python Gallery
